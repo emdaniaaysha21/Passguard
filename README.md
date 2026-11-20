@@ -86,5 +86,5 @@ python passguard.py
 
 Aaysha Emdani 
 
-B.Tech Computer Engineering Student  
+Information communication Technology  
 GEC Bhavnagar
